@@ -6,13 +6,13 @@ Learning materials for [Natural Language Processing Specialization on coursera](
 
 ## Courses
 
-  Course 1: [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing)
+  - Course 1: [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing)
   
-  Course 2: [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing)
+  - Course 2: [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing)
   
-  Course 3: [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing)
+  - Course 3: [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing)
   
-  Course 4: [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing)
+  - Course 4: [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing)
   
   
 ## Applied Learning Project
@@ -26,3 +26,15 @@ This Specialization will equip you with machine learning basics and state-of-the
   • Use dense and recurrent neural networks, LSTMs, GRUs, and Siamese networks in TensorFlow and Trax to perform advanced sentiment analysis, text generation, named entity recognition, and to identify duplicate questions. 
 
   • Use encoder-decoder, causal, and self-attention to perform advanced machine translation of complete sentences, text summarization, question-answering, and to build chatbots. Learn T5, BERT, transformer, reformer, and more with 🤗  Transformers!
+  
+## Progressing
+
+### **Course 1**
+### Natural Language Processing with Classification and Vector Spaces
+
+- *Week 1  Sentiment Analysis with Logistic Regression*
+  - [Natural language processing](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W1/01_preprocessing.ipynb)
+  - [Visualizing word frequencies](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W1/02_word%20frequencies.ipynb)
+  - [Visuallizing tweets and logitic regression models](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W1/03_logistic_regression_model.ipynb)
+  - **[Quiz](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W1/Quiz%201.md)**
+  - [Assignment](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W1/C1_W1_Assignment.ipynb)
