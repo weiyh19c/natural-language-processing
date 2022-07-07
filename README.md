@@ -36,5 +36,10 @@ This Specialization will equip you with machine learning basics and state-of-the
   - [Natural language processing](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W1/01_preprocessing.ipynb)
   - [Visualizing word frequencies](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W1/02_word%20frequencies.ipynb)
   - [Visuallizing tweets and logitic regression models](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W1/03_logistic_regression_model.ipynb)
-  - **[Quiz](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W1/Quiz%201.md)**
-  - [Assignment](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W1/C1_W1_Assignment.ipynb)
+  - [Quiz](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W1/Quiz%201.md)
+  - **[Assignment](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W1/C1_W1_Assignment.ipynb)**
+  
+- *Week 2 Sentiment Analysis with Naive Bayes*
+  - [Visualizing likelihood and confidence elipses](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W2/01_visualizing_naive_bayes.ipynb)
+  - [Quiz](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W2/Quiz%202.md)
+  - **[Assignment](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W2/C1_W2_Assignment.ipynb)**
