@@ -43,3 +43,10 @@ This Specialization will equip you with machine learning basics and state-of-the
   - [Visualizing likelihood and confidence elipses](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W2/01_visualizing_naive_bayes.ipynb)
   - [Quiz](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W2/Quiz%202.md)
   - **[Assignment](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W2/C1_W2_Assignment.ipynb)**
+  
+- *Week 3 Vector Space Models*
+  - [Linear algebra in Python with Numpy](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W3/01_linear_algebra.ipynb)
+  - [Manipulating word embeddings](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W3/02_manipulating_word_embeddings.ipynb)
+  - [Another explanation about PCA](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W3/03_pca.ipynb)
+  - [Quiz](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W3/Quiz%203.md)
+  - **[Assignment](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W3/C1_W3_Assignment.ipynb)**
