@@ -50,3 +50,9 @@ This Specialization will equip you with machine learning basics and state-of-the
   - [Another explanation about PCA](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W3/03_pca.ipynb)
   - [Quiz](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W3/Quiz%203.md)
   - **[Assignment](https://github.com/MECatherine/NLP-coursera/blob/main/C1/W3/C1_W3_Assignment.ipynb)**
+ 
+- *Week 4 Machine Translation and Document Search*
+  - [Rotation matrices in R2](https://github.com/weiyh19c/NLP-coursera/blob/main/C1/W4/01_vector_manipulation.ipynb)
+  - [Hash Tables](https://github.com/weiyh19c/NLP-coursera/blob/main/C1/W4/02_hash_functions_and_multiplanes.ipynb)
+  - [Quiz](https://github.com/weiyh19c/NLP-coursera/blob/main/C1/W4/Quiz%204.md)
+  - **[Assignment](https://github.com/weiyh19c/NLP-coursera/blob/main/C1/W4/C1_W4_Assignment.ipynb)**
