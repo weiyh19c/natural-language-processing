@@ -56,3 +56,8 @@ This Specialization will equip you with machine learning basics and state-of-the
   - [Hash Tables](https://github.com/weiyh19c/NLP-coursera/blob/main/C1/W4/02_hash_functions_and_multiplanes.ipynb)
   - [Quiz](https://github.com/weiyh19c/NLP-coursera/blob/main/C1/W4/Quiz%204.md)
   - **[Assignment](https://github.com/weiyh19c/NLP-coursera/blob/main/C1/W4/C1_W4_Assignment.ipynb)**
+
+
+### **Course 2**
+### Natural Language Processing with Probabilistic Models
+- *Week1 Autocorrect*
