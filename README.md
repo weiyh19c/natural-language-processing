@@ -6,13 +6,13 @@ Learning materials for [Natural Language Processing Specialization on coursera](
 
 ## Courses
 
-  - Course 1: [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing)
+  - Course 1: [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/)
   
-  - Course 2: [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing)
+  - Course 2: [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp/home/)
   
-  - Course 3: [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing)
+  - Course 3: [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp/home/)
   
-  - Course 4: [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing)
+  - Course 4: [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp/home/)
   
   
 ## Applied Learning Project
