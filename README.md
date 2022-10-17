@@ -2,7 +2,7 @@
 
 Break into NLP. Master cutting-edge NLP techniques through four hands-on courses! Updated with the latest techniques in October 21.
 
-Learning materials for [Natural Language Processing Specialization on coursera](https://www.coursera.org/specializations/natural-language-processing)
+Learning materials for **Natural Language Processing Specialization** on [Coursera](https://www.coursera.org/specializations/natural-language-processing)
 
 ## Courses
 
